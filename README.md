@@ -49,7 +49,14 @@ Thanks a lot :)
 
 ```bigquery
 
-TBD
+@misc{zhang2024unleashing,
+      title={Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion}, 
+      author={Yichi Zhang and Zhuo Chen and Lei Liang and Huajun Chen and Wen Zhang},
+      year={2024},
+      eprint={2402.15444},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
 
 ```
 
