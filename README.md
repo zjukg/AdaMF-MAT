@@ -2,8 +2,9 @@
 
 ![](https://img.shields.io/badge/version-1.0.1-blue)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/zjukg/AdaMF-MAT/main/LICENSE)
-[![Preprint](https://img.shields.io/badge/Preprint'23-brightgreen)](https://arxiv.org/abs/2402.15444)
+[![Preprint](https://img.shields.io/badge/Preprint'24-brightgreen)](https://arxiv.org/abs/2402.15444)
 [![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![COLING2024](https://img.shields.io/badge/COLING-2024-%23bd9f65?labelColor=%2377BBDD&color=3388bb)](https://lrec-coling-2024.org/)
  - [Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2402.15444)
 
 > Multi-modal knowledge graph completion (MMKGC) aims to predict the missing triples in the multi-modal knowledge graphs by incorporating structural, visual, and textual information of entities into the discriminant models. The information from different modalities will work together to measure the triple plausibility. Existing MMKGC methods overlook the imbalance problem of modality information among entities, resulting in inadequate modal fusion and inefficient utilization of the raw modality information. To address the mentioned problems, we propose Adaptive Multi-modal Fusion and Modality Adversarial Training (AdaMF-MAT) to unleash the power of imbalanced modality information for MMKGC. AdaMF-MAT achieves multi-modal fusion with adaptive modality weights and further generates adversarial samples by modality-adversarial training to enhance the imbalanced modality information. Our approach is a co-design of the MMKGC model and training strategy which can outperform 19 recent MMKGC methods and achieve new state-of-the-art results on three public MMKGC benchmarks.
