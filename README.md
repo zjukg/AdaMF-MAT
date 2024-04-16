@@ -13,9 +13,9 @@
 ![Model_architecture](figure/model.png)
 
 ## 🔔 News
-- 2024-04 We preprint a new paper [MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2404.09468).
-- 2024-03 We release the [Repo](https://github.com/zjukg/NATIVE) for our paper: [NativE: Multi-modal Knowledge Graph Completion in the Wild](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171259566.60211714), SIGIR 2024
-- 2024-02 Our paper has been accepted by LREC-COLING 2024.
+- `2024-04` We preprint a new paper [MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2404.09468).
+- `2024-03` We release the [Repo](https://github.com/zjukg/NATIVE) for our paper: [NativE: Multi-modal Knowledge Graph Completion in the Wild](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171259566.60211714), **SIGIR 2024**.
+- `2024-02` Our paper has been accepted by **LREC-COLING 2024**.
 
 
 ## 💻 Data preparation
